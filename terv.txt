@@ -1,1 +1,2 @@
 Amőba játék készítése html és css felhasználásával.
+Készítette: Gergő
